@@ -4,12 +4,12 @@ a:hover {
 }
 html {
 	
-	background-color: #00539F;
+	background-color: #003366
 }
 body {
   width: 700px;
   margin: 0 auto;
-  background-color: #00FFFF;
+  background-color: #33cccc;
   padding: 0 20px 20px 20px;
   border: 5px solid black;
 }
