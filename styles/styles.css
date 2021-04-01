@@ -1,0 +1,15 @@
+a:hover {
+	color:red;
+	
+}
+html {
+	
+	background-color: #00539F;
+}
+body {
+  width: 700px;
+  margin: 0 auto;
+  background-color: #00FFFF;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
