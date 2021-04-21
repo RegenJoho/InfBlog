@@ -1,0 +1,20 @@
+a:hover {
+	color:red;
+	
+}
+html {
+	
+	background-color: #003366
+}
+body {
+  width: 700px;
+  margin: 0 auto;
+  background-color: #33cccc;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+img {
+	height: 500;
+	width: 700;
+	object-fit: contain;
+}
